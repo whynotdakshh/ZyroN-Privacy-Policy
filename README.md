@@ -1,6 +1,6 @@
 # 🎵 Sangam Privacy Policy
 
-_Last Updated: <t:1776603974:R>_
+Last Updated: <t:1776603974:R>
 
 Welcome to **Sangam**, a Discord music bot designed to deliver seamless and high-quality music playback.
 
