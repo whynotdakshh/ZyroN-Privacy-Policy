@@ -1,10 +1,10 @@
-# 🎵 Sangam Privacy Policy
+# 🎵 Sargam Privacy Policy
 
 _Last Updated: April 19, 2026_
 
-Welcome to **Sangam**, a Discord music bot designed to deliver seamless and high-quality music playback.
+Welcome to **Sargam**, a Discord music bot designed to deliver seamless and high-quality music playback.
 
-This Privacy Policy explains how Sangam collects, uses, stores, and protects your data when you use the bot.
+This Privacy Policy explains how Sargam collects, uses, stores, and protects your data when you use the bot.
 
 ---
 
@@ -56,7 +56,7 @@ We use collected data strictly to:
 We retain data only as long as necessary.
 
 ### You may request data deletion by:
-- Removing Sangam from your server, OR
+- Removing Sargam from your server, OR
 - Contacting the developer directly
 
 Data will be deleted within a reasonable timeframe.
@@ -65,7 +65,7 @@ Data will be deleted within a reasonable timeframe.
 
 ## 🚸 Children's Privacy
 
-Sangam does not knowingly collect data from users under the age of 13.  
+Sargam does not knowingly collect data from users under the age of 13.  
 If such data is identified, it will be deleted immediately.
 
 ---
@@ -75,7 +75,7 @@ If such data is identified, it will be deleted immediately.
 We may update this Privacy Policy at any time.
 
 Changes will be reflected by updating the "Last Updated" date.  
-Continued use of Sangam means you accept the updated policy.
+Continued use of Sargam means you accept the updated policy.
 
 ---
 
@@ -84,7 +84,7 @@ Continued use of Sangam means you accept the updated policy.
 For questions, support, or data requests:
 
 - Developer: [Dakshhh](http://discord.com/users/1304640723458457712)
-- Discord: [Sangam HQ](https://discord.gg/dtm6RcqGEy)
+- Discord: [Sargam HQ](https://discord.gg/dtm6RcqGEy)
 
 ---
 
