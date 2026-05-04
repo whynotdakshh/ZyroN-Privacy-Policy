@@ -1,8 +1,8 @@
-# 🎵 Sargam Privacy Policy
+# 🎵 Melvix Privacy Policy
 
-_Last Updated: April 19, 2026_
+_Last Updated: May 04, 2026_
 
-Welcome to **Sargam**, a Discord music bot designed to deliver seamless and high-quality music playback.
+Welcome to **Melvix**, a Discord music bot designed to deliver seamless and high-quality music playback.
 
 This Privacy Policy explains how Sargam collects, uses, stores, and protects your data when you use the bot.
 
@@ -10,7 +10,7 @@ This Privacy Policy explains how Sargam collects, uses, stores, and protects you
 
 ## 📊 Information We Collect
 
-To provide core functionality, Sangam may collect the following data:
+To provide core functionality, Melvix may collect the following data:
 
 ### 🔹 Automatically Collected Data
 - User ID
@@ -56,7 +56,7 @@ We use collected data strictly to:
 We retain data only as long as necessary.
 
 ### You may request data deletion by:
-- Removing Sargam from your server, OR
+- Removing Melvix from your server, OR
 - Contacting the developer directly
 
 Data will be deleted within a reasonable timeframe.
@@ -65,7 +65,7 @@ Data will be deleted within a reasonable timeframe.
 
 ## 🚸 Children's Privacy
 
-Sargam does not knowingly collect data from users under the age of 13.  
+Melvix does not knowingly collect data from users under the age of 13.  
 If such data is identified, it will be deleted immediately.
 
 ---
@@ -75,7 +75,7 @@ If such data is identified, it will be deleted immediately.
 We may update this Privacy Policy at any time.
 
 Changes will be reflected by updating the "Last Updated" date.  
-Continued use of Sargam means you accept the updated policy.
+Continued use of Melvix means you accept the updated policy.
 
 ---
 
@@ -84,8 +84,8 @@ Continued use of Sargam means you accept the updated policy.
 For questions, support, or data requests:
 
 - Developer: [Dakshhh](http://discord.com/users/1304640723458457712)
-- Discord: [Sargam HQ](https://discord.gg/dtm6RcqGEy)
+- Discord: [Melvix HQ](https://discord.gg/dtm6RcqGEy)
 
 ---
 
-By using **Sangam**, you agree to this Privacy Policy.
+By using **Melvix**, you agree to this Privacy Policy.
