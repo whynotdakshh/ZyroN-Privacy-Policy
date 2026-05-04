@@ -4,7 +4,7 @@ _Last Updated: May 04, 2026_
 
 Welcome to **Melvix**, a Discord music bot designed to deliver seamless and high-quality music playback.
 
-This Privacy Policy explains how Sargam collects, uses, stores, and protects your data when you use the bot.
+This Privacy Policy explains how Melvix collects, uses, stores, and protects your data when you use the bot.
 
 ---
 
