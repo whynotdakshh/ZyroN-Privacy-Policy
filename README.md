@@ -1,91 +1,36 @@
-# 🎵 Melvix Privacy Policy
+# Zyron Privacy Policy
 
-_Last Updated: May 04, 2026_
-
-Welcome to **Melvix**, a Discord music bot designed to deliver seamless and high-quality music playback.
-
-This Privacy Policy explains how Melvix collects, uses, stores, and protects your data when you use the bot.
+Thank you for choosing **Zyron**! This Privacy Policy explains how we collect, use, and protect your data when you use our service. By using Zyron, you agree to the terms outlined in this policy.
 
 ---
 
-## 📊 Information We Collect
+## **Data Collection**
+Zyron is a free-to-use Discord bot with no hidden charges. To provide and improve our features, we collect specific data, including:
 
-To provide core functionality, Melvix may collect the following data:
-
-### 🔹 Automatically Collected Data
-- User ID
-- Server (Guild) ID
-- Channel ID
-- Voice Channel ID
-- Command usage data
-
-### 🔹 Music Data
-- Song queue (temporary)
-- Playback activity
-- Interaction with music commands
-
-### ❌ Data We Do NOT Collect
-- Message content (DMs or server chats)
-- Passwords or tokens
-- Email addresses or personal identifiable information
+- **Server IDs:** Used for managing server-specific settings such as welcome messages, role assignments, giveaways, and other bot configurations. All data is securely stored using AES encryption standards.
+- **User IDs:** Used for leveling, economy, or giveaway features, and stored only to enable the features.
 
 ---
 
-## ⚙️ How We Use Your Data
-
-We use collected data strictly to:
-
-- Execute commands and maintain functionality
-- Provide music playback features
-- Improve performance and stability
-- Detect and prevent abuse
-- Debug errors and issues
+## **How We Use Your Data**
+We do not share, sell, or distribute your information to third parties. The data collected is strictly used for maintaining and improving **Zyron’s services**. All data usage aligns with our **Terms of Service**.
 
 ---
 
-## 🔐 Data Storage & Security
-
-- Data is stored securely and only for operational purposes
-- Temporary data is automatically deleted after use
-- We do NOT sell, trade, or share your data with third parties
+## **Access to Server Data**
+- **Server owners & administrators** can control server settings and collected data.
+- **Bot developers** have access to data only for maintenance, debugging, and service improvements.
 
 ---
 
-## 🧹 Data Retention & Deletion
+## **Data Storage & Retention**
+Zyron stores server-related configurations and blacklisted user IDs for **up to 7 days** after removal from a Discord server. This allows smooth restoration if the bot is re-added.
 
-We retain data only as long as necessary.
-
-### You may request data deletion by:
-- Removing Melvix from your server, OR
-- Contacting the developer directly
-
-Data will be deleted within a reasonable timeframe.
+If you wish to have your data permanently deleted, you may submit a request to the bot developers via our support server.
 
 ---
 
-## 🚸 Children's Privacy
+## **Contact & Support**
+For any questions, concerns, or data removal requests, please join our **[support server](https://discord.gg/JygUqZBvTb)**.
 
-Melvix does not knowingly collect data from users under the age of 13.  
-If such data is identified, it will be deleted immediately.
-
----
-
-## 🔄 Changes to This Policy
-
-We may update this Privacy Policy at any time.
-
-Changes will be reflected by updating the "Last Updated" date.  
-Continued use of Melvix means you accept the updated policy.
-
----
-
-## 📩 Contact
-
-For questions, support, or data requests:
-
-- Developer: [Dakshhh](http://discord.com/users/1304640723458457712)
-- Discord: [Melvix HQ](https://discord.gg/dtm6RcqGEy)
-
----
-
-By using **Melvix**, you agree to this Privacy Policy.
+Thank you for trusting **Zyron**. We are committed to protecting your privacy while ensuring a secure and efficient service.
